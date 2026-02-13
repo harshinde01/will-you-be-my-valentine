@@ -35,14 +35,14 @@ export default function Page() {
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/4bV9ylEOWpgAAAAj/bubu-dudu-sseeyall.gif" />
+          <img src="https://media.tenor.com/PXKZhCEfEfsAAAAi/bubu-bubu-dudu.gif" />
           <div className="my-4 text-4xl font-bold">yay mwah :)</div>
         </>
       ) : (
         <>
           <img
             className="h-[200px]"
-            src="https://media.gifdb.com/dudu-kissing-bubu-hearts-gif-ohi53sgm3xj46ra2.gif"
+            src="https://media.tenor.com/4bV9ylEOWpgAAAAj/bubu-dudu-sseeyall.gif"
           />
           <h1 className="my-4 text-4xl">Hi baby:) Will you be my Valentine?</h1>
           <div className="flex items-center">
